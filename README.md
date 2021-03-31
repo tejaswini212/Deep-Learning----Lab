@@ -10,4 +10,4 @@ Assignment - 2:\
 [2. Filtering of images using convolution](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_2/Assignment2_2.ipynb)\
 Assignment - 3:\
 [1. Implementation of AlexNet](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_3/LabAssignment3_Task1.ipynb)\
-[2. Designing & implementing CNN on GreyScaled Images](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_3/LabAssignment3_Task2.ipynb)
+[2. Designing & implementing CNN on Gray Scaled Images](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_3/LabAssignment3_Task2.ipynb)
