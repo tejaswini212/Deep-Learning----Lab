@@ -11,3 +11,6 @@ Assignment - 2:\
 Assignment - 3:\
 [1. Implementation of AlexNet](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_3/LabAssignment3_Task1.ipynb)\
 [2. Designing & implementing CNN on Gray Scaled Images](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_3/LabAssignment3_Task2.ipynb)
+Assignment - 4:\
+[1. Implementing AlexNet ConvNet](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_4/20MAI0044_DLA-Lab4_Task1.ipynb)\
+[2. Implement VGG16](https://github.com/tejaswini212/Deep-Learning----Lab/blob/main/Lab_Assignment_4/20MAI0044_DLA-Lab4_Task2.ipynb)
